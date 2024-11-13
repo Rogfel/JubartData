@@ -1,0 +1,86 @@
+[
+            {
+                "nome": "Carrefour Hiper Casa Verde",
+                "CEP": "02513-000",
+                "address": "Rua Marambaia, 200",
+                "link": "https://www.carrefour.com.br/folheto-digital/festival-do-pescado/BCV/152064"
+            },
+            {
+                "nome": "Carrefour Hiper Anchieta",
+                "CEP": "04246-900",
+                "address": "Via Anchieta, 3398",
+                "link": "https://www.carrefour.com.br/folheto-digital/festival-do-pescado/SPA/152064"
+            },
+            {
+                "nome": "Carrefour Hiper Pêssego",
+                "CEP": "08260-000",
+                "address": "Estrada do Pêssego, 1200",
+                "link": "https://www.carrefour.com.br/folheto-digital/festival-do-pescado/SPE/152064"
+            },
+            {
+                "nome": "Carrefour Hiper Shopping Interlagos",
+                "CEP": "04661-902",
+                "address": "Avenida Interlagos, 2501",
+                "link": "https://www.carrefour.com.br/folheto-digital/festival-do-pescado/SPI/152064"
+            },
+            {
+                "nome": "Carrefour Hiper Vila Maria",
+                "CEP": "02063-002",
+                "address": "Avenida Morvan Dias de Figueiredo, 3177",
+                "link": "https://www.carrefour.com.br/folheto-digital/festival-do-pescado/SPT/152064"
+            },
+            {
+                "nome": "Carrefour Hiper Casa Verde",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/sinal-verde/BCV/152115"
+            },
+            {
+                "nome": "Carrefour Hiper Anchieta",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/sinal-verde/SPA/152115"
+            },
+            {
+                "nome": "Carrefour Hiper Shopping Interlagos",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/sinal-verde/SPI/152115"
+            },
+            {
+                "nome": "Carrefour Hiper Pêssego",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/sinal-verde/SPE/152115"
+            },
+            {
+                "nome": "Carrefour Hiper Vila Maria",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/sinal-verde/SPT/152115"
+            },
+            {
+                "nome": "Carrefour Hiper Casa Verde",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/feira-/BCV/152188"
+            },
+            {
+                "nome": "Carrefour Hiper Anchieta",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/feira-/SPA/152188"
+            },
+            {
+                "nome": "Carrefour Hiper Pêssego",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/reinaugura%C3%A7%C3%A3o/SPE/152194"
+            },
+            {
+                "nome": "Carrefour Hiper Casa Verde",
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/gola%C3%A7o-de-ofertas/BCV/152191"
+            }           
+]

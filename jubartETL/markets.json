@@ -1,0 +1,86 @@
+[
+            {
+                "nome": "Carrefour Hiper Águas Claras",
+                "lat_long": [-15.832025265181366, -48.03981526477196],
+                "CEP": "70297-400",
+                "address": "Rua Copaíba, S/N",
+                "link": "https://www.carrefour.com.br/folheto-digital/mundo-beb%C3%AA/BAC/152147"
+            },
+            {
+                "nome": "Carrefour Hiper Asa Norte",
+                "lat_long":[-15.727494686911918, -47.88489423053847],
+                "CEP": "70770-916",
+                "address": "ST Setor Terminal Norte, Lote J, S/N",
+                "link": "https://www.carrefour.com.br/folheto-digital/mundo-beb%C3%AA/BAN/152147"
+            },   
+            {
+                "nome": "Carrefour Hiper Brasilia Sul",
+                "lat_long": [-15.825589249512372, -47.93124294310815],
+                "CEP": "71215-300",
+                "address": "SCEE / Sul Lote B, S/N",
+                "link": "https://www.carrefour.com.br/folheto-digital/mundo-beb%C3%AA/BSB/152147"
+            },   
+            {
+                "nome": "Carrefour Hiper Águas Claras",
+                "lat_long": [-15.832025265181366, -48.03981526477196],
+                "CEP": "70297-400",
+                "address": "Rua Copaíba, S/N",
+                "link": "https://www.carrefour.com.br/folheto-digital/semana-da-economia/BAC/152180"
+            }, 
+            {
+                "nome": "Carrefour Hiper Asa Norte",
+                "lat_long":[-15.727494686911918, -47.88489423053847],
+                "CEP": "70770-916",
+                "address": "ST Setor Terminal Norte, Lote J, S/N",
+                "link": "https://www.carrefour.com.br/folheto-digital/semana-da-economia/BAN/152180"
+            },   
+            {
+                "nome": "Carrefour Hiper Brasilia Sul",
+                "lat_long": [-15.825589249512372, -47.93124294310815],
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/semana-da-economia/BSB/152180"
+            },
+            {
+                "nome": "Carrefour Hiper Águas Claras",
+                "lat_long": [-15.832025265181366, -48.03981526477196],
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/feira/BAC/152208"
+            },   
+            {
+                "nome": "Carrefour Hiper Asa Norte",
+                "lat_long":[-15.727494686911918, -47.88489423053847],
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/feira/BAN/152208"
+            }, 
+            {
+                "nome": "Carrefour Hiper Brasilia Sul",
+                "lat_long": [-15.825589249512372, -47.93124294310815],
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/feira/BSB/152208"
+            },   
+            {
+                "nome": "Carrefour Hiper Águas Claras",
+                "lat_long": [-15.832025265181366, -48.03981526477196],
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/plataforma-futebol/BAC/152243"
+            },
+            {
+                "nome": "Carrefour Hiper Asa Norte",
+                "lat_long":[-15.727494686911918, -47.88489423053847],
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/plataforma-futebol/BAN/152243"
+            },   
+            {
+                "nome": "Carrefour Hiper Brasilia Sul",
+                "lat_long": [-15.825589249512372, -47.93124294310815],
+                "CEP": "",
+                "address": "",
+                "link": "https://www.carrefour.com.br/folheto-digital/plataforma-futebol/BSB/152243"
+            }
+]
