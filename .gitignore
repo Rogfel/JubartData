@@ -163,5 +163,3 @@ cython_debug/
 
 *.jpg
 *.zip
-dataset/PetImages/*
-genetics/pyCGP-master/*
